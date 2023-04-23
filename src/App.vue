@@ -64,7 +64,6 @@
 
 <style>
 ion-header{
-  height: 20vw;
   padding: 20px;
 }
 
